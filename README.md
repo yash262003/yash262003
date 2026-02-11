@@ -2,11 +2,9 @@
 
 It's me Navoday.
 
-Sometimes I Create & Sometimes I Learn
+I am proficient in Analytics and Machine Learning.
 
-My Proficiency in Anlytics & Machine Learning
-
-Also knows about Web Development & Programming (Little Bit).
+I also have foundational knowledge of Web Development and Programming, which I continue to expand.
 
 <!--
 **yash262003/yash262003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
