@@ -2,6 +2,10 @@
 
 It's me Navoday.
 
+Sometimes I Create & Sometimes I Learn
+
+My Proficiency in Anlytics & Machine Learning
+
 <!--
 **yash262003/yash262003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
